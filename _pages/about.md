@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Meng Huang This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages.
+I am Meng Huang
 
 A data-driven personal website
 ======
